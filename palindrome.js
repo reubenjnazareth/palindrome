@@ -7,4 +7,4 @@ const outputElement = document.querySelector("#output");
 
 
 
-submitBtn.addEventListener("click", )
+submitBtn.addEventListener("click", isPalindrome )
